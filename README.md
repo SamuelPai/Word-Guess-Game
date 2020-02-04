@@ -1,2 +1,2 @@
 # Word-Guess-Game
-Week 3 hw (recommended) 
+A word guess game created with the use of html, css, and javascript 
